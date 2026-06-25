@@ -3,6 +3,8 @@ export const siteConfig = {
   fullName: "Umbral — Propiedades con intención",
   description:
     "Propiedades seleccionadas con fotografías cuidadas, datos claros y asesoría para llegar a la visita con una decisión más informada.",
+  url: "https://umbral-gray-six.vercel.app/",
+  ogImage: "/og/umbral-og.jpg",
   whatsappNumber: "5210000000000",
   nav: [
     {
